@@ -1,0 +1,9 @@
+{
+  "name": "@xrosy/utils",
+  "license": "MIT",
+  "description": "utils tools",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-xrosy": "^0.1.30"
+  }
+}
